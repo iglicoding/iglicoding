@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igli Boci</h1>
 <h3 align="begin">Fullstack Developer | Building High-Performance Web Applications.</h3>
-<h3 align="begin" >As a Fullstack Developer, my passion is to architect and build complete, high-performance digital solutions. I move fluently between the back-end and front-end, using technologies like NodeJS, NestJS and React to create robust, scalable, and secure systems. My focus is on transforming ideas into functional products, ensuring clean code and a solid architecture that not only meets current needs but also facilitates future maintenance and project evolution.</h3>
+<h3 align="begin" >As a Fullstack Developer, my passion is to architect and build complete, high-performance digital solutions. I move fluently between the back-end and front-end, using technologies like NodeJS, NestJS and React, Next , Angular to create robust, scalable, and secure systems. My focus is on transforming ideas into functional products, ensuring clean code and a solid architecture that not only meets current needs but also facilitates future maintenance and project evolution.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iglicoding&label=Profile%20views&color=0e75b6&style=flat" alt="iglicoding" /> </p>
 
