@@ -98,3 +98,18 @@ Over the last few years, I have worked extensively with AI-powered applications,
 </a>
 
 </p>
+
+---
+
+<p align="center">
+🚀 Building cloud-native platforms, AI-powered applications, and scalable distributed systems.
+</p>
+
+<p align="center">
+☁️ AWS • 🤖 AI & LLMs • ⚡ Distributed Systems • 🌍 Modern Web Applications
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/iglicoding">LinkedIn</a> •
+<a href="https://github.com/iglicoding">GitHub</a>
+</p>
