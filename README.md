@@ -94,7 +94,7 @@ Over the last few years, I have worked extensively with AI-powered applications,
 </a>
 
 <a href="https://platform.openai.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=openai" alt="openai" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/>
 </a>
 
 </p>
