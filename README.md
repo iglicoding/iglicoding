@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Igli Boci</h1>
 
 <h3 align="center">
-Senior Full-Stack Engineer | Cloud, AI & Scalable Applications
+Senior Full-Stack Engineer | AI, Distributed Systems & Cloud-Native Platforms
 </h3>
 
 <p align="center">
-Building cloud-native platforms, AI-powered applications, and scalable distributed systems.
+Building scalable web platforms, intelligent automation solutions, and high-performance cloud applications.
 </p>
 
 <p>
-I am a Senior Full-Stack Engineer with 8+ years of experience designing and developing modern web applications, cloud-native solutions, and distributed systems. My expertise spans React, Next.js, Angular, Node.js, TypeScript, AWS, PostgreSQL, MongoDB, and Docker, with a strong focus on software architecture, performance optimization, and scalable engineering practices.
+I am a Senior Full-Stack Engineer with 8+ years of experience designing and delivering scalable web applications, cloud-native platforms, and distributed systems. My expertise includes React, Next.js, Angular, Node.js, TypeScript, PostgreSQL, MongoDB, Redis, Docker, and AWS, with a strong focus on software architecture, microservices, performance optimization, and modern engineering practices.
 </p>
 
 <p>
-Over the last few years, I have worked extensively with AI-powered applications, integrating OpenAI APIs, Large Language Models (LLMs), intelligent search, conversational assistants, retrieval-augmented generation (RAG), and workflow automation into modern digital platforms. I enjoy transforming complex business requirements into reliable, maintainable, and high-impact software solutions.
+Over the last two years, I have specialized in AI-powered solutions, integrating Large Language Models (LLMs), OpenAI APIs, intelligent search, Retrieval-Augmented Generation (RAG), conversational AI, and workflow automation into enterprise-grade applications. I enjoy solving complex technical challenges and building reliable, maintainable, and business-driven software that creates measurable impact.
 </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=iglicoding&label=Profile%20views&color=0e75b6&style=flat" alt="iglicoding" />
 </p>
-
 
 <h3 align="left">Cloud, AI & Modern Engineering Stack</h3>
 
