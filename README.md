@@ -20,7 +20,7 @@ Over the last two years, I have specialized in AI-powered solutions, integrating
   <img src="https://komarev.com/ghpvc/?username=iglicoding&label=Profile%20views&color=0e75b6&style=flat" alt="iglicoding" />
 </p>
 
-<h3 align="left">Cloud, AI & Modern Engineering Stack</h3>
+<h3 align="left">AI, Cloud & Full-Stack Engineering Stack</h3>
 
 <p align="left">
 
@@ -76,24 +76,24 @@ Over the last two years, I have specialized in AI-powered solutions, integrating
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
 
+<a href="https://gitlab.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/>
+</a>
+
 <a href="https://github.com/features/actions" target="_blank">
 <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="40" height="40"/>
 </a>
 
-<a href="https://kafka.apache.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+<a href="https://nginx.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
 </a>
 
-<a href="https://www.rabbitmq.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
-</a>
-
-<a href="https://jestjs.io" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+<a href="https://www.cypress.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/>
 </a>
 
 <a href="https://platform.openai.com/" target="_blank">
-  <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/>
 </a>
 
 </p>
